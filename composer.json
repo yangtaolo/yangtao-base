@@ -1,0 +1,19 @@
+{
+    "name": "yangtao/base",
+    "description": "miaosu",
+    "type": "library",
+    "license": "Apache-2.0",
+    "authors": [
+        {
+            "name": "yangtao",
+            "email": "yangtaolo@163.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "base\\": "src"
+        }
+    }
+}
